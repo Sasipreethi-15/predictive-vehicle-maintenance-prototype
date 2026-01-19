@@ -7,3 +7,6 @@ faker
 requests
 scikit-learn
 joblib
+streamlit
+requests
+pandas
